@@ -1,0 +1,530 @@
+Sample output of games between Player 1 vs Bob
+
+--------------When I go first(I won)------------------------------
+
+Let's play the game Player 1 vs Bob
+Who should go first? (1=User  2=Bob): 1
+You will have Red/Blue dice
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Please input your move:
+Row (1-4): 1
+Col (1-4): 1
+Which face do you want to place? (Red/Blue): Red
+------------------
+| R |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Bob flips.....
+0
+0
+------------------
+|   | B |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Bob moves.....
+0
+0
+------------------
+| W | B |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Please tell the row of the tile you want to flip? (Row 1-4): 1
+Please tell the column of the tile you want to flip? (Row 1-4): 1
+Please input the row where you want to flip? (Row 1-4): 2
+Please input the column where you want to flip? (Row 1-4): 1
+------------------
+|   | B |   |   |
+------------------
+| Y |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Please input your move:
+Row (1-4): 1
+Col (1-4): 1
+Which face do you want to place? (Red/Blue): Blue
+------------------
+| B | B |   |   |
+------------------
+| Y |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Bob flips.....
+0
+1
+------------------
+| B |   | R |   |
+------------------
+| Y |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Bob moves.....
+0
+1
+------------------
+| B | Y | R |   |
+------------------
+| Y |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Please tell the row of the tile you want to flip? (Row 1-4): 1
+Please tell the column of the tile you want to flip? (Row 1-4): 2
+Please input the row where you want to flip? (Row 1-4): 2
+Please input the column where you want to flip? (Row 1-4): 2
+------------------
+| B |   | R |   |
+------------------
+| Y | W |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Please input your move:
+Row (1-4): 1
+Col (1-4): 2
+Which face do you want to place? (Red/Blue): Blue
+------------------
+| B | B | R |   |
+------------------
+| Y | W |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Bob flips.....
+0
+2
+------------------
+| B | B |   | B |
+------------------
+| Y | W |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Bob moves.....
+0
+2
+------------------
+| B | B | Y | B |
+------------------
+| Y | W |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Please tell the row of the tile you want to flip? (Row 1-4): 1
+Please tell the column of the tile you want to flip? (Row 1-4): 3
+Please input the row where you want to flip? (Row 1-4): 2
+Please input the column where you want to flip? (Row 1-4): 3
+------------------
+| B | B |   | B |
+------------------
+| Y | W | W |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Please input your move:
+Row (1-4): 1
+Col (1-4): 3
+Which face do you want to place? (Red/Blue): Nlue
+Please enter a valid face color!
+Which face do you want to place? (Red/Blue): Blue
+------------------
+| B | B | B | B |
+------------------
+| Y | W | W |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Player 1 with dice Red/Blue wins!
+
+
+
+
+------------------------------------When Bob(AI-2) went first-------------------------------------------------------
+
+Let's play the game Player 1 vs Bob
+Who should go first? (1=User  2=Bob): 2
+Bob will have White/Yellow dice
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Bob moves.....
+0
+0
+------------------
+| W |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Please tell the row of the tile you want to flip? (Row 1-4): 1
+Please tell the column of the tile you want to flip? (Row 1-4): 1
+Please input the row where you want to flip? (Row 1-4): 1
+Please input the column where you want to flip? (Row 1-4): 2
+------------------
+|   | Y |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Please input your move:
+Row (1-4): 1
+Col (1-4): 1
+Which face do you want to place? (Red/Blue): Red
+------------------
+| R | Y |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Bob flips.....
+0
+0
+------------------
+|   | Y |   |   |
+------------------
+| B |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Bob moves.....
+0
+0
+------------------
+| W | Y |   |   |
+------------------
+| B |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Please tell the row of the tile you want to flip? (Row 1-4): 1
+Please tell the column of the tile you want to flip? (Row 1-4): 2
+Please input the row where you want to flip? (Row 1-4): 2
+Please input the column where you want to flip? (Row 1-4): 2
+------------------
+| W |   |   |   |
+------------------
+| B | W |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Please input your move:
+Row (1-4): 1
+Col (1-4): 2
+Which face do you want to place? (Red/Blue): Red
+------------------
+| W | R |   |   |
+------------------
+| B | W |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Bob flips.....
+0
+1
+------------------
+| W |   | B |   |
+------------------
+| B | W |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+Bob moves.....
+0
+1
+------------------
+| W | W | B |   |
+------------------
+| B | W |   |   |
+------------------
+|   |   |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Please tell the row of the tile you want to flip? (Row 1-4): 2
+Please tell the column of the tile you want to flip? (Row 1-4): 2
+Please input the row where you want to flip? (Row 1-4): 3
+Please input the column where you want to flip? (Row 1-4): 2
+------------------
+| W | W | B |   |
+------------------
+| B |   |   |   |
+------------------
+|   | Y |   |   |
+------------------
+|   |   |   |   |
+------------------
+Please input your move:
+Row (1-4): 2
+Col (1-4): 2
+Which face do you want to place? (Red/Blue): Blue
+------------------
+| W | W | B |   |
+------------------
+| B | B |   |   |
+------------------
+|   | Y |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Bob flips.....
+0
+2
+------------------
+| W | W |   | R |
+------------------
+| B | B |   |   |
+------------------
+|   | Y |   |   |
+------------------
+|   |   |   |   |
+------------------
+Bob moves.....
+0
+2
+------------------
+| W | W | W | R |
+------------------
+| B | B |   |   |
+------------------
+|   | Y |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Please tell the row of the tile you want to flip? (Row 1-4): 1
+Please tell the column of the tile you want to flip? (Row 1-4): 3
+Please input the row where you want to flip? (Row 1-4): 2
+Please input the column where you want to flip? (Row 1-4): 3
+------------------
+| W | W |   | R |
+------------------
+| B | B | Y |   |
+------------------
+|   | Y |   |   |
+------------------
+|   |   |   |   |
+------------------
+Please input your move:
+Row (1-4): 1
+Col (1-4): 3
+Which face do you want to place? (Red/Blue): Blue
+------------------
+| W | W | B | R |
+------------------
+| B | B | Y |   |
+------------------
+|   | Y |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Bob flips.....
+0
+3
+------------------
+| W | W | B |   |
+------------------
+| B | B | Y | B |
+------------------
+|   | Y |   |   |
+------------------
+|   |   |   |   |
+------------------
+Bob moves.....
+0
+3
+------------------
+| W | W | B | W |
+------------------
+| B | B | Y | B |
+------------------
+|   | Y |   |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Please tell the row of the tile you want to flip? (Row 1-4): 2
+Please tell the column of the tile you want to flip? (Row 1-4): 3
+Please input the row where you want to flip? (Row 1-4): 3
+Please input the column where you want to flip? (Row 1-4): 3
+------------------
+| W | W | B | W |
+------------------
+| B | B |   | B |
+------------------
+|   | Y | W |   |
+------------------
+|   |   |   |   |
+------------------
+Please input your move:
+Row (1-4): 2
+Col (1-4): 3
+Which face do you want to place? (Red/Blue): Blue
+------------------
+| W | W | B | W |
+------------------
+| B | B | B | B |
+------------------
+|   | Y | W |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Bob flips.....
+1
+0
+------------------
+| W | W | B | W |
+------------------
+|   | B | B | B |
+------------------
+| R | Y | W |   |
+------------------
+|   |   |   |   |
+------------------
+Bob moves.....
+1
+0
+------------------
+| W | W | B | W |
+------------------
+| W | B | B | B |
+------------------
+| R | Y | W |   |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Please tell the row of the tile you want to flip? (Row 1-4): 3
+Please tell the column of the tile you want to flip? (Row 1-4): 3
+Please input the row where you want to flip? (Row 1-4): 3
+Please input the column where you want to flip? (Row 1-4): 4
+------------------
+| W | W | B | W |
+------------------
+| W | B | B | B |
+------------------
+| R | Y |   | Y |
+------------------
+|   |   |   |   |
+------------------
+Please input your move:
+Row (1-4): 3
+Col (1-4): 3
+Which face do you want to place? (Red/Blue): Blue
+------------------
+| W | W | B | W |
+------------------
+| W | B | B | B |
+------------------
+| R | Y | B | Y |
+------------------
+|   |   |   |   |
+------------------
+
+-------------------------------------------
+Player 1 with dice Red/Blue wins!
+
+
+
